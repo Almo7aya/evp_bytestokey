@@ -1,0 +1,13 @@
+[package]
+name = "evp_bytestokey"
+version = "0.1.0"
+edition = "2021"
+license = "MIT/Apache-2.0"
+authors = ["Ali Almohaya <alialmohaya@gmail.com>"]
+description = "The insecure key derivation algorithm from OpenSSL."
+categories = ["crypto", "openssl", "nodejs-crypto", "createDecipher", "algorithms", "cryptography"]
+keywords = ["checksum", "digest", "hash", "md5", "openssl"]
+readme = "README.md"
+
+[dependencies]
+md-5 = "0.10.5"
