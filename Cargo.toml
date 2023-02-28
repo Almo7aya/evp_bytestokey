@@ -8,6 +8,8 @@ description = "The insecure key derivation algorithm from OpenSSL."
 categories = ["crypto", "openssl", "nodejs-crypto", "createDecipher", "algorithms", "cryptography"]
 keywords = ["checksum", "digest", "hash", "md5", "openssl"]
 readme = "README.md"
+repository = "https://github.com/Almo7aya/evp_bytestokey"
+homepage = "https://github.com/Almo7aya/evp_bytestokey"
 
 [dependencies]
 md-5 = "0.10.5"
